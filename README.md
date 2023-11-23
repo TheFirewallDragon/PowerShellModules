@@ -1,6 +1,6 @@
 <h1>PowerShell Modules</h1>
 <p>
-Below is a complete list, in alphabetical order, of PowerShell modules I have developed.
+Below is a list, in alphabetical order, of PowerShell modules I have developed.
 </p>
 <ul>
   <li>ADCompInfo</li>
