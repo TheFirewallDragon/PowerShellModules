@@ -29,4 +29,4 @@ Le dossier contient:
   <li>Rapport universitaire complet « Rapport_ADInfoOrdi.pdf »</li>
   <li>Fichier vidéo de démo (un court exemple par fonction) bandicam « 2023-11-18 00-51-08-736.mp4 »</li>
 </ul>
-Lien: https://github.com/TheFirewallDragon/ADInfoOrdi
+Lien: https://github.com/TheFirewallDragon/PowerShellModules/tree/main/ADInfoOrdi
