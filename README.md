@@ -16,7 +16,7 @@ This directory contains:
   <li>PowerShell data file « ADCompInfo.psd1 »</li>
   <li>PowerShell script file « ADCompInfo.psm1 »</li>
 </ul>
-Link: https://github.com/TheFirewallDragon/ADCompInfo
+Link: https://github.com/TheFirewallDragon/PowerShellModules/tree/main/ADCompInfo
 
 <h2>ADInfoOrdi (French)</h2>
 <p>
