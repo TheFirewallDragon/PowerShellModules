@@ -11,6 +11,11 @@ Below is a list of PowerShell modules I have developed.
 <p>
 "ADCompInfo" is a module designed to retrieve information about computers. It was initially created for Active Directory but can be used in any context. The following 6 pieces of information about the computer (Comp) are obtained: the model (CompModel), the processor (CompProcessor), the memory (CompMemory), the hard drive (CompHardDrive), the IP address (CompIPAdress), and the time of the last startup (CompLastStartup). All this information can be obtained using the final function, CompInfo.  
 </p>
+This repository contains:
+<ul>
+  <li>PowerShell data file « ADCompInfo.psd1 »</li>
+  <li>PowerShell script file « ADCompInfo.psm1 »</li>
+</ul>
 Link: https://github.com/TheFirewallDragon/ADCompInfo
 
 <h2>ADInfoOrdi (French)</h2>
