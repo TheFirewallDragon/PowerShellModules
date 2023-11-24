@@ -26,7 +26,7 @@ Le dossier contient:
 <ul>
   <li>Fichier de données PowerShell « ADInfoOrdi.psd1 »</li>
   <li>Fichier du script PowerShell « ADInfoOrdi.psm1 »</li>
-  <li>Rapport universitaire complet « Rapport_ADInfoOrdi.pdf »</li>
+  <li>Rapport universitaire complet « CR431_Devoir1_Couture.pdf »</li>
   <li>Fichier vidéo de démo (un court exemple par fonction) bandicam « 2023-11-18 00-51-08-736.mp4 »</li>
 </ul>
 Lien: https://github.com/TheFirewallDragon/PowerShellModules/tree/main/ADInfoOrdi
