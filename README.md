@@ -22,4 +22,11 @@ Link: https://github.com/TheFirewallDragon/PowerShellModules/tree/main/ADCompInf
 <p>
 "ADInfoOrdi" est un module conçu pour obtenir des informations sur des ordinateurs. Il a été initialement créé pour Active Directory mais peut être utilisé dans n'importe quel contexte. Les 6 informations suivantes de l'ordinateur (Ordi) sont obtenues : le modèle (ModeleOrdi), le processeur (ProcesseurOrdi), la mémoire (MemoireOrdi), le disque dur (DisqueDurOrdi), l'adresse IP (AdresseIPOrdi) et l'heure du dernier démarrage (DernierDemarrageOrdi). Toutes ces informations peuvent être obtenues en utilisant la fonction finale, InfoOrdi.
 </p>
+Le dossier contient:
+<ul>
+  <li>Fichier de données PowerShell « ADInfoOrdi.psd1 »</li>
+  <li>Fichier du script PowerShell « ADInfoOrdi.psm1 »</li>
+  <li>Rapport universitaire complet « Rapport_ADInfoOrdi.pdf »</li>
+  <li>Fichier vidéo de démo (un court exemple par fonction) bandicam « 2023-11-18 00-51-08-736.mp4 »</li>
+</ul>
 Lien: https://github.com/TheFirewallDragon/ADInfoOrdi
